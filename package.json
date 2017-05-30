@@ -1,0 +1,8 @@
+{
+  "name": "wp-babel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/steveraaen/wp-babel.git",
+  "author": "steveraaen <sraaen@gmail.com>",
+  "license": "MIT"
+}
